@@ -1,0 +1,44 @@
+! https://www.koreaboo.com
+www.koreaboo.com##.asc-sidebar-sticky.kba-container
+www.koreaboo.com##.body-container > .kba-container
+www.koreaboo.com##.entry-content > .kba-container
+www.koreaboo.com##.instagram-media > div > .kba-container
+www.koreaboo.com##div.kba-container:nth-of-type(2)
+www.koreaboo.com##div.kba-container:nth-of-type(3)
+www.koreaboo.com##div.kba-container:nth-of-type(4)
+www.koreaboo.com##div.kba-container:nth-of-type(5)
+www.koreaboo.com##div.kba-container:nth-of-type(6)
+www.koreaboo.com##div.kba-container:nth-of-type(7)
+www.koreaboo.com##div.kba-container:nth-of-type(9)
+www.koreaboo.com##div.kba-container:nth-of-type(10)
+www.koreaboo.com##div.kba-container:nth-of-type(11)
+www.koreaboo.com##div.kba-container:nth-of-type(12)
+www.koreaboo.com##div.kba-container:nth-of-type(14)
+www.koreaboo.com##div.kba-container:nth-of-type(15)
+www.koreaboo.com##div.kba-container:nth-of-type(17)
+www.koreaboo.com##div.kba-container:nth-of-type(20)
+www.koreaboo.com###post-1415568 > .entry-content > .kba-container
+
+! https://www.dailymotion.com
+www.dailymotion.com##.AdBlockerPopup__adBlockerContainer___qUU2A
+www.dailymotion.com##.Overlay__overlay___3Khjx
+
+! https://surabaya.kompas.com
+surabaya.kompas.com##.clearfix.container > .gate-kgplus
+surabaya.kompas.com##.clearfix.kcm__horizontal.kcm
+surabaya.kompas.com##.clearfix.kcm__rectangle.kcm
+surabaya.kompas.com##.clearfix.kcm__top.kcm
+surabaya.kompas.com##.clearfix.kcm__tower.kcm
+surabaya.kompas.com##.clearfix.kcm__track.kcm
+surabaya.kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
+surabaya.kompas.com##.kcm__stick--left
+surabaya.kompas.com##.kcm__stick--right
+surabaya.kompas.com##.mgidaiml.ads-partner-wrap
+surabaya.kompas.com##.native-wrap
+surabaya.kompas.com##.osmplaceonsite.ads-partner-wrap
+surabaya.kompas.com##div.gate-kgplus:nth-of-type(2)
+surabaya.kompas.com##div.gate-kgplus:nth-of-type(4)
+surabaya.kompas.com##div.gate-kgplus:nth-of-type(5)
+surabaya.kompas.com##div.gate-kgplus:nth-of-type(12)
+surabaya.kompas.com##div.gate-kgplus:nth-of-type(16)
+

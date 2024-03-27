@@ -23,22 +23,57 @@ www.koreaboo.com###post-1415568 > .entry-content > .kba-container
 www.dailymotion.com##.AdBlockerPopup__adBlockerContainer___qUU2A
 www.dailymotion.com##.Overlay__overlay___3Khjx
 
-! https://surabaya.kompas.com
-surabaya.kompas.com##.clearfix.container > .gate-kgplus
-surabaya.kompas.com##.clearfix.kcm__horizontal.kcm
-surabaya.kompas.com##.clearfix.kcm__rectangle.kcm
-surabaya.kompas.com##.clearfix.kcm__top.kcm
-surabaya.kompas.com##.clearfix.kcm__tower.kcm
-surabaya.kompas.com##.clearfix.kcm__track.kcm
-surabaya.kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
-surabaya.kompas.com##.kcm__stick--left
-surabaya.kompas.com##.kcm__stick--right
-surabaya.kompas.com##.mgidaiml.ads-partner-wrap
-surabaya.kompas.com##.native-wrap
-surabaya.kompas.com##.osmplaceonsite.ads-partner-wrap
-surabaya.kompas.com##div.gate-kgplus:nth-of-type(2)
-surabaya.kompas.com##div.gate-kgplus:nth-of-type(4)
-surabaya.kompas.com##div.gate-kgplus:nth-of-type(5)
-surabaya.kompas.com##div.gate-kgplus:nth-of-type(12)
-surabaya.kompas.com##div.gate-kgplus:nth-of-type(16)
+! https:/*.kompas.com
+kompas.com##.clearfix.container > .gate-kgplus
+kompas.com##.clearfix.kcm__horizontal.kcm
+kompas.com##.clearfix.kcm__rectangle.kcm
+kompas.com##.clearfix.kcm__top.kcm
+kompas.com##.clearfix.kcm__tower.kcm
+kompas.com##.clearfix.kcm__track.kcm
+kompas.com##.col-bs10-10 > .gate-kgplus
+kompas.com##.is_stuck.js-giant-wp-sticky > .clearfix.kcm__big.kcm
+kompas.com##.js-giant-wp-sticky > .clearfix.kcm__big.kcm
+kompas.com##.js-giant-wp-top1.clearfix.kcm__big.kcm
+kompas.com##.kcm__articleList
+kompas.com##.kcm__stick--left
+kompas.com##.kcm__stick--right
+kompas.com##.kcm__superbig.kcm
+kompas.com##.mgidaiml.ads-partner-wrap
+kompas.com##.native-wrap
+kompas.com##.osmplaceonsite.ads-partner-wrap
+kompas.com###general-container > .gate-kgplus
+kompas.com##div.clearfix.mt1 > .gate-kgplus
+kompas.com##div.gate-kgplus:nth-of-type(2)
+kompas.com##div.gate-kgplus:nth-of-type(4)
+kompas.com##div.gate-kgplus:nth-of-type(5)
+kompas.com##div.gate-kgplus:nth-of-type(12)
+kompas.com##div.gate-kgplus:nth-of-type(16)
 
+! https://nasional.tempo.co
+nasional.tempo.co##.detail-konten > .iklan.bggrey
+nasional.tempo.co##.detail-side-sticky > .iklan.bggrey
+nasional.tempo.co##.w-100.iklan.bggrey
+
+! 2023-08-26 https://www.suara.com
+www.suara.com##.bg-ads-sticky-top
+www.suara.com##.bg-ads-sticky-side
+www.suara.com##.placeholder_belt
+www.suara.com###player-video
+
+! 2023-11-12 https://*.detik.com
+detik.com##.skybanner
+detik.com##.parallaxindetail
+detik.com##.staticdetail_container > .para_caption
+detik.com##.staticdetail_ads
+detik.com##.staticdetail_container
+
+! 2024-03-01 https://www.intipseleb.com
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(1)
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(2)
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(5)
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(9)
+www.intipseleb.com##.content_center.desktop-only.slotiklan-728x90.slotiklan.sticky-bottom
+www.intipseleb.com##.content_center.desktop-only.slotiklan-topdesktop.slotiklan.iklan-top-desktop
+
+! 2024-03-25 https://www.lightnovelworld.co
+www.lightnovelworld.co##.modal-section

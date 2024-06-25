@@ -60,20 +60,39 @@ www.suara.com##.bg-ads-sticky-side
 www.suara.com##.placeholder_belt
 www.suara.com###player-video
 
-! 2023-11-12 https://*.detik.com
-detik.com##.skybanner
-detik.com##.parallaxindetail
-detik.com##.staticdetail_container > .para_caption
-detik.com##.staticdetail_ads
-detik.com##.staticdetail_container
+! 2023-11-12 https://news.detik.com
+news.detik.com##.skybanner
+news.detik.com##.parallaxindetail
+news.detik.com##.staticdetail_container > .para_caption
+news.detik.com##.staticdetail_ads
+news.detik.com##.staticdetail_container
+
+! 2024-03-26 https://sport.detik.com
+sport.detik.com##.staticdetail_container > .para_caption
 
 ! 2024-03-01 https://www.intipseleb.com
-www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(1)
-www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(2)
 www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(5)
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(2)
 www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(9)
 www.intipseleb.com##.content_center.desktop-only.slotiklan-728x90.slotiklan.sticky-bottom
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(1)
 www.intipseleb.com##.content_center.desktop-only.slotiklan-topdesktop.slotiklan.iklan-top-desktop
 
 ! 2024-03-25 https://www.lightnovelworld.co
 www.lightnovelworld.co##.modal-section
+
+! 2024-04-12 https://www.hops.id
+www.hops.id##.ads--stick-parent-250px.clearfix.mt3.ads
+www.hops.id##.ads--stick-parent-400px.clearfix.mt3.ads
+www.hops.id##div.ads--stick-parent.clearfix.mt3.ads:nth-of-type(1)
+www.hops.id##div.ads--stick-parent.clearfix.mt3.ads:nth-of-type(2)
+
+! Jun 25, 2024 https://bangka.tribunnews.com
+bangka.tribunnews.com##.reserved_box_1_1.reserved_box_ads
+bangka.tribunnews.com##.reserved_box_2.reserved_box_ads
+bangka.tribunnews.com##div.sticky.reserved_box_2_2.reserved_box_ads:nth-of-type(1)
+bangka.tribunnews.com##div.sticky.reserved_box_2_2.reserved_box_ads:nth-of-type(3)
+bangka.tribunnews.com##div.sticky.reserved_box_2_2.reserved_box_ads:nth-of-type(5)
+bangka.tribunnews.com##li.pb5.reserved_box_5.reserved_box_ads:nth-of-type(1)
+bangka.tribunnews.com##li.pb5.reserved_box_5.reserved_box_ads:nth-of-type(2)
+

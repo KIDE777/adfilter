@@ -68,11 +68,11 @@ detik.com##.staticdetail_container
 detik.com##.staticdetail_container > .para_caption
 
 ! 2024-03-01 https://www.intipseleb.com
-www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(5)
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(1)
 www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(2)
+www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(5)
 www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(9)
 www.intipseleb.com##.content_center.desktop-only.slotiklan-728x90.slotiklan.sticky-bottom
-www.intipseleb.com##div.desktop-only.content_center.slotiklan-300x250.slotiklan.iklan-sidebar:nth-of-type(1)
 www.intipseleb.com##.content_center.desktop-only.slotiklan-topdesktop.slotiklan.iklan-top-desktop
 
 ! 2024-03-25 https://www.lightnovelworld.co
@@ -98,3 +98,6 @@ www.kilat.com##.ads--stick-parent-300px.clearfix.mt3.ads
 www.kilat.com##.col-offset-0.col-bs10-7 .ads--stick-parent.clearfix.mt3.ads
 www.kilat.com##div.ads--stick-parent.clearfix.mt3.ads:nth-of-type(1)
 www.kilat.com##div.ads--stick-parent.clearfix.mt3.ads:nth-of-type(2)
+
+! Oct 15, 2024 https://www.cnnindonesia.com
+www.cnnindonesia.com##.w-\[360px\].z-50.right-0.bottom-\[50px\].fixed.mb-4.text-sm.text-white.px-4.py-3.bg-cnn_red
